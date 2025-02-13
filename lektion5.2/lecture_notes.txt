@@ -1,0 +1,12 @@
+IMAGE SEGMENTATION
+
+convert to binary (black&white)
+
+thresholding
+ - binär tröskelvärde, pixel blir svart eller vit beroende på är den större än thresholden.
+ - bara änkla (simple) sammanhang
+
+edge detection
+ - 
+
+
