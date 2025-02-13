@@ -1,4 +1,4 @@
-Course in Computer Vision (datorseende2025)
+### Course in Computer Vision (datorseende2025)
 
 Exercises during class
 
